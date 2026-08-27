@@ -1603,10 +1603,6 @@ HTML_TEMPLATE = """
 </html>
 """
 
-
-    # ... (all your routes, API functions, and HTML_TEMPLATE code above) ...
-
-# Run the database setup whenever the app loads
 init_db()
 
 if __name__ == '__main__':
